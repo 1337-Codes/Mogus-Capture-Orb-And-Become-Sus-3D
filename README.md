@@ -1,5 +1,4 @@
 # first-game
-WIP
-also:
-https://www.dropbox.com/s/rkbk8ctz4h2fuku/my-first-game.zip?dl=0
-updated
+COMPLETE with godot
+also
+https://www.dropbox.com/s/ais1datgs8s18ey/my-first-game-COMPLETE.zip?dl=0
