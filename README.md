@@ -11,3 +11,10 @@ https://godotengine.org/download/windows
 Standard version install.
 I forgot to mention that the "kill" button is located (5 x , 0 z) and that the "resurrect" button is located (-5 x , 0 z).
 And also if you don't use windows you might need to re-export the game for the OS that you use, if you use windows however it is already exported.
+
+Version 1.1.0 A Minor Update:
+
+I included the information I missed
+I added all export options
+I added Color Reskins and a backup folder for them
+https://www.dropbox.com/s/a4u0oogugt67dns/MCOABS3D-v110.zip?dl=0
