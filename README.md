@@ -16,5 +16,5 @@ Version 1.1.0 A Minor Update:
 
 I included the information I missed
 I added all export options
-I added Color Reskins and a backup folder for them
+I added Color Reskins and a backup folder for it
 https://www.dropbox.com/s/a4u0oogugt67dns/MCOABS3D-v110.zip?dl=0
