@@ -3,7 +3,7 @@
 I am in a gamejolt community for Godot, I posted about this creation, here is this link for confirmation that it is indeed I.
 https://gamejolt.com/@1337CuberII
 
-Version 1.0.0 Initial release:
+Version 1.0.0 Initial Release:
 
 https://www.dropbox.com/s/ais1datgs8s18ey/my-first-game-COMPLETE.zip?dl=0
 Requirements:
@@ -18,3 +18,7 @@ I included the information I missed
 I added all export options
 I added Color Reskins and a backup folder for it
 https://www.dropbox.com/s/a4u0oogugt67dns/MCOABS3D-v110.zip?dl=0
+
+Version 1.2.0 An Even More Minor Update:
+I added a background
+https://www.dropbox.com/s/82m1szwt9fnmqks/MCOABS3D-v120.zip?dl=0
