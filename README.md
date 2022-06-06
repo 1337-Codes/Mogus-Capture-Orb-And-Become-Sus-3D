@@ -23,3 +23,8 @@ Version 1.2.0 An Even More Minor Update:
 
 I added a background
 https://www.dropbox.com/s/82m1szwt9fnmqks/MCOABS3D-v120.zip?dl=0
+
+Version 1.2.1 A Bug Fix:
+
+I fixed the bug where it says "X,Y,Z" (and then switches upon cursor movement) where your coordinates are so now it says "X, Y, Z" (from the start)
+https://www.dropbox.com/s/7vwyjojucwcy1h6/MCOABS3D-121.zip?dl=0
