@@ -28,3 +28,4 @@ Version 1.2.1 A Bug Fix:
 
 I fixed the bug where it says "X,Y,Z" (and then switches upon cursor movement) where your coordinates are so now it says "X, Y, Z" (from the start)
 https://www.dropbox.com/s/7vwyjojucwcy1h6/MCOABS3D-121.zip?dl=0
+remember "read now.txt"? it is located in the start of the folder now!
