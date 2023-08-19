@@ -34,3 +34,7 @@ Version 1.2.2 A Folder Rename:
 
 added funny "(u)" in folder names
 https://www.dropbox.com/s/mskma2k41drlrqy/MCOABS3D-v122.zip?dl=0
+
+Version 2.0.0 A Major Update:
+
+https://gamejolt.com/games/MCOABS3D/747469 to download
